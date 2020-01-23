@@ -1,9 +1,15 @@
+var path = require('path');
 module.exports = {
     mode: 'development',
-    entry: './main.js',
+    entry: './src/main.js',
     output: {
-        path: __dirname,
+        path: __dirname + '/public',
         filename: 'bandle.js'
+    },
+    devServer: {
+        contentBase: path.join(__dirname, 'public'),
+        compress: true,
+        port: 9000
     },
     module: {
         rules: [{
