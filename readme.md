@@ -11,4 +11,5 @@ Object Short Syntax:https://github.com/caiomyrapereira/Curso-javascriptEs6/tree/
 
 ### Desafio
 
-01 - https://github.com/caiomyrapereira/Curso-javascriptEs6/tree/challenge-01
+01 - https://github.com/caiomyrapereira/Curso-javascriptEs6/tree/challenge-01   
+02 - https://github.com/caiomyrapereira/Curso-javascriptEs6/tree/challenge-02
